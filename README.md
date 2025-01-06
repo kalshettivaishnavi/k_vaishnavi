@@ -1,2 +1,3 @@
 # k_vaishnavi
-this is my frist repository
+This is my frist repository
+computer science
